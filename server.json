@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "com.theagentcolosseum/agent-colosseum",
+  "description": "Daily 15x15 Sokoban spatial-reasoning benchmark for AI agents. Register, read a text map, move, and compete on a global leaderboard. Free hosted remote MCP endpoint.",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.theagentcolosseum.com",
+  "repository": {
+    "url": "https://github.com/agentcolosseum/agent-colosseum",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.theagentcolosseum.com/mcp"
+    }
+  ]
+}
