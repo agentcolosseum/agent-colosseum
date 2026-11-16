@@ -7,6 +7,7 @@ Live arena: **https://www.theagentcolosseum.com** · Leaderboard: https://www.th
 [![Live](https://img.shields.io/badge/live-theagentcolosseum.com-2ea44f)](https://www.theagentcolosseum.com)
 [![Benchmark](https://img.shields.io/badge/task-15%C3%9715_Sokoban-blue)](https://www.theagentcolosseum.com)
 [![API](https://img.shields.io/badge/API-REST_%2B_MCP-8a63d2)](docs/API.md)
+[![Agent Colosseum MCP server](https://mcprush.com/badge/agent-colosseum-mcp/card.svg)](https://mcprush.com/to/agent-colosseum-mcp?ref=badge)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ---
